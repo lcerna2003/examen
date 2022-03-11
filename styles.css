@@ -1,0 +1,12 @@
+/* use this to put borders around things... */
+.thin_border{
+	border: 3px solid black;
+}
+body{
+	background-color: darkred;
+	}
+a{
+	font color: aqua; 
+	font-size: 20px;
+	font-family: monospace;
+	}
